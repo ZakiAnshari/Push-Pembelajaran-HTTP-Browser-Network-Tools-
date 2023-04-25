@@ -1,0 +1,15 @@
+
+
+
+
+15.Teknologi Lainnya
+->Server-Sent Event : SSE adalah teknologi yang menyediakan komunikasi asinkron dengan aliran peristiwa dari server ke klien melalui HTTP untuk aplikasi web.
+->WebSocket : adalah teknologi yang sangat populer yang menyediakan transfer data dua arah untuk komunikasi klien dan server pada aplikasi waktu nyata. Websocket tidak didasarkan pada protokol HTTP, sehingga memerlukan instalasi dan integrasi tambahan untuk menggunakannya. Sulit untuk diterapkan dibandingkan dengan teknologi lain yang disebutkan di atas.
+->Cross-Origin Resource Sharing :CORS merupakan protokol penghubung antara browser dan web-service yang memberitahu browser bahwa itu adalah "OK" untuk mengeksekusi kode Javascript dari panggilan lintas domain.
+->RESTful API : adalah antarmuka yang digunakan oleh dua sistem komputer untuk bertukar informasi secara aman melalui internet
+->OAuth : adalah proses pengguna akan memberikan hak akses kepada aplikasi pihak ketiga untuk melakukan akses data yang dimiliki oleh pengguna.
+
+
+
+
+

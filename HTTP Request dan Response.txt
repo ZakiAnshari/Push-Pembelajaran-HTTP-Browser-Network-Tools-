@@ -1,0 +1,12 @@
+
+6.HTTP Request dan Response
+*HTTP Message
+->HTTP Request dan HTTP Response, sebenarnya adalah sebuah HTTP Message
+->HTTP Message memiliki standarisasi format 
+->Dengan demikian, jika kita ingin membuat Client dan Server sendiri, sebenarnya bisa kita lakukan, asal kita mengikuti standarisasi format HTTP Message
+
+*HTTP Message untuk Request
+->di start line nya ada kata POST/login HTTP/1.1
+
+*HTTP Message untuk Response
+->di start line nya ada kata HTTP/1.1 200
